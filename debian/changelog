@@ -1,9 +1,12 @@
-pr2-grant (0.5.11-precise) stable; urgency=low
+pr2-grant (0.5.11-xenial) stable; urgency=low
 
+  [ Austin Hendrix ]
   * Incrementing to SVN: r988
    - r988: Fix makefile for pr2-grant again :(
 
- -- Austin Hendrix <ahendrix@willowgarage.com>  Tue, 04 Dec 2012 13:29:23 -0800
+  [ David Feil-Seifer ]
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Wed, 18 Apr 2018 17:28:09 -0700
 
 pr2-grant (0.5.10-precise) UNRELEASED; urgency=low
 
