@@ -1,0 +1,8 @@
+build-stamp
+configure-stamp
+debian/.debhelper/*
+debian/files
+debian/pr2-grant.debhelper.log
+debian/pr2-grant.substvars
+debian/pr2-grant/*
+pr2-grant
